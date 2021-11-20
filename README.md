@@ -11,7 +11,7 @@
 * Infowatch TM
 
 ### CONTACT ME📫
-Find me on [✨VK:](https:\\@tay0ta) / ✨mail:GForseD@mail.ru
+Find me on [✨VK](https:\\@tay0ta) / ✨mail:GForseD@mail.ru
 
 <!---
 Nalmaa/Nalmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
