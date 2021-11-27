@@ -11,8 +11,8 @@
 * Infowatch TM
 
 ### CONTACT ME📫
-![github](https://avatars.mds.yandex.net/i?id=78fbd799b4266e1a1bfa67232dfa8f15-5573137-images-thumbs&n=13)
-Find me on [VK](https:\\@tay0ta) 
+![VK](https:\\@tay0ta)[github](https://i.mycdn.me/i?r=AzEPZsRbOZEKgBhR0XGMT1Rknokm6bz39kuRSD4dHJ9sjqaKTM5SRkZCeTgDn6uOyic)
+
 
 <!---
 Nalmaa/Nalmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
