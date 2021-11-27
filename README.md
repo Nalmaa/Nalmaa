@@ -11,7 +11,7 @@
 * Infowatch TM
 
 ### CONTACT ME📫
-![VK](https:\\@tay0ta;https://img.favpng.com/18/10/17/vk-computer-icons-social-networking-service-social-media-png-favpng-RWnCrLtBLEuRbPLfPXeQiZDCK.jpg)
+![VK](https://www.pngwing.com/ru/free-png-svkql)
 
 
 <!---
