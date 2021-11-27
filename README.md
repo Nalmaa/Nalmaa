@@ -12,8 +12,7 @@
 
 
 #### Links
-[VK](https://tay0ta/)
-[Inst](https://instagram.com/video.narkotiki/)
+[VK](https://tay0ta/) / [Inst](https://instagram.com/video.narkotiki/)
 
 
 
