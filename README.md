@@ -14,9 +14,8 @@
 #### Links
 <p align='center'>
    <a href="https://tay0ta/">
-       <img src="https://w7.pngwing.com/pngs/342/425/png-transparent-vkontakte-social-networking-service-platforms-social-media-logo-vk-blue-hand-mailru-llc-thumbnail.png"/>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/192px-VK.com-logo.svg.png"/>
 
-* [VK](https://tay0ta/) 
 * [INST](https://instagram.com/video.narkotiki/)
 * ![s](https://w7.pngwing.com/pngs/212/174/png-transparent-vk-computer-icons-social-networking-service-social-media-social-media-trademark-logo-social-media-thumbnail.png)
 
