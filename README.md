@@ -13,7 +13,7 @@
 
 #### Links
 <p align='center'>
-   <a href="https://tay0ta/">
+   <a href="https://vk.com/tay0ta/">
        <img src="https://e1.pngegg.com/pngimages/738/365/png-clipart-somacro-45-300dpi-social-media-icons-vk-vk-logo-thumbnail.png"/>
 
 * [INST](https://instagram.com/video.narkotiki/)
