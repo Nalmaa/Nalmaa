@@ -16,13 +16,11 @@
 <img src=""/>
 
 #### Links
-<p align='left'>
+<p align='center'>
    <a href="https://vk.com/tay0ta/">
-       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>     
-      <p align='left'>         
+       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>                 
  <a href="https://instagram.com/video.narkotiki/">
-       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-     <p align='left'>         
+       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>             
  <a href="https://t-do.ru/tay0ta/">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     
