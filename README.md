@@ -14,7 +14,7 @@
 #### Links
 * [VK](https://tay0ta/) 
 * [INST](https://instagram.com/video.narkotiki/)
-* [s](https://e1.pngegg.com/pngimages/738/365/png-clipart-somacro-45-300dpi-social-media-icons-vk-vk-logo-thumbnail.png)
+* ![s](https://e1.pngegg.com/pngimages/738/365/png-clipart-somacro-45-300dpi-social-media-icons-vk-vk-logo-thumbnail.png)
 
 
 
