@@ -12,11 +12,15 @@
 
 
 #### Links
-<p align='center'>
+<p align='left'>
    <a href="https://vk.com/tay0ta/">
-       <img src="https://e1.pngegg.com/pngimages/738/365/png-clipart-somacro-45-300dpi-social-media-icons-vk-vk-logo-thumbnail.png"/>
+       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
+      <p align='center'>
+         
+ <a href="https://instagram.com/video.narkotiki/">
+       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
-* [INST](https://instagram.com/video.narkotiki/)
+
 
 
 
