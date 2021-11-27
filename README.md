@@ -11,7 +11,7 @@
 * Infowatch TM
 
 ### CONTACT ME📫
-![VK](http://s1.iconbird.com/ico/2013/11/499/w128h1281384975213MezhdunarodnylogotipVK2.png)
+[VK](https://tay0ta/ && (http://s1.iconbird.com/ico/2013/11/499/w128h1281384975213MezhdunarodnylogotipVK2.png)
 
 
 <!---
