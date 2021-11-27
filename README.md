@@ -6,7 +6,7 @@
 + 😍 I'm watch Anime
 
 #### MY TECHNICAL ACTIVITY👾
-* 
+* <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 * MySQL
 * Infowatch TM
 
