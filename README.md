@@ -14,10 +14,10 @@
 #### Links
 <p align='center'>
    <a href="https://tay0ta/">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/192px-VK.com-logo.svg.png"/>
+       <img src="https://e1.pngegg.com/pngimages/738/365/png-clipart-somacro-45-300dpi-social-media-icons-vk-vk-logo-thumbnail.png"/>
 
 * [INST](https://instagram.com/video.narkotiki/)
-* ![s](https://w7.pngwing.com/pngs/212/174/png-transparent-vk-computer-icons-social-networking-service-social-media-social-media-trademark-logo-social-media-thumbnail.png)
+
 
 
 
