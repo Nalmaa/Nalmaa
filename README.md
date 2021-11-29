@@ -4,6 +4,8 @@
 ###### 🎓 I’m currently studying at a pedagogical college on an information security course.
 ###### 🌱 I also try myself in Adobe Photoshop
 ###### 😍 I'm watch Anime
+![](https://komarev.com/ghpvc/?username=nalmaa&color=blue&style=flat-square)
+    
 
 ### MY TECHNICAL ACTIVITY👾
 <p align='left'>
@@ -21,8 +23,6 @@
  <a href="https://t-do.ru/tay0ta/">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
  
-![](https://komarev.com/ghpvc/?username=nalmaa&color=blue&style=flat-square)
-    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalmaa&show_icons=true&theme=github_dark)
   
 
