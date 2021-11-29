@@ -21,7 +21,7 @@
  <a href="https://t-do.ru/tay0ta/">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
  
-![](https://komarev.com/ghpvc/?username=nalmaa&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=nalmaa&color=blue&style=flat-square)
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalmaa&show_icons=true&theme=github_dark)
   
