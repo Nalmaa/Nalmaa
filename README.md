@@ -6,8 +6,8 @@
 ###### 😍 I'm watch Anime
 
 #### MY TECHNICAL ACTIVITY👾
-![Flutter](https://img.shields.io/badge/-InfoWatch-32CD32?style=for-the-badge&logo=infowatch)
 <p align='left'>
+![Flutter](https://img.shields.io/badge/-InfoWatch-32CD32?style=for-the-badge&logo=infowatch)
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"/>
