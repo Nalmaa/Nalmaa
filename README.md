@@ -1,13 +1,14 @@
 ### I AM🌵
-![](https://komarev.com/ghpvc/?username=nalmaa&color=blue&style=flat-square)
     
 ###### 👋 Hi, I’m @Nalmaa ( The real name is Daniil). I'm 18 y.o. I'm beginner programming specialist
 ###### 👀 I’m interested in programming languages and network security.
 ###### 🎓 I’m currently studying at a pedagogical college on an information security course.
 ###### 🌱 I also try myself in Adobe Photoshop
 ###### 😍 I'm watch Anime
+
 ![](https://komarev.com/ghpvc/?username=nalmaa&color=blue&style=flat-square)
     
+
 
 ### MY TECHNICAL ACTIVITY👾
 <p align='left'>
@@ -16,6 +17,7 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"/>
 
+    
 ### Links
 <p align='left'>
    <a href="https://vk.com/tay0ta/">
