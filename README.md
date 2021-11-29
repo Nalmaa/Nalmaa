@@ -19,9 +19,9 @@
  <a href="https://instagram.com/video.narkotiki/">
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>             
  <a href="https://t-do.ru/tay0ta/">
-       <img src="https://img.shields.io/endpoint?color=White&label=Instagram&logo=Instagram&logoColor=White&style=for-the-badge"/>
-    https://img.shields.io/endpoint?color=White&label=Instagram&logo=Instagram&logoColor=White&style=for-the-badge
-    https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+
+   
     
     
 
