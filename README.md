@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"/>
 
 #### Links
-<p align='center'>
+<p align='left'>
    <a href="https://vk.com/tay0ta/">
        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>                 
  <a href="https://instagram.com/video.narkotiki/">
