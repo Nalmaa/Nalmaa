@@ -23,7 +23,7 @@
  
 ![](https://komarev.com/ghpvc/?username=nalmaa&color=blueviolet&style=flat-square)
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalmaa&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalmaa&show_icons=true&theme=cobalt)
     dracula
  
 
