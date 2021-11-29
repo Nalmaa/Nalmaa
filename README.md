@@ -6,8 +6,12 @@
 ###### 🌱 I also try myself in Adobe Photoshop
 ###### 😍 I'm watch Anime
 
+
+
 ![](https://komarev.com/ghpvc/?username=nalmaa&color=blue&style=flat-square)
     
+
+
 
 
 #### MY TECHNICAL ACTIVITY👾
@@ -17,6 +21,8 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"/>
 
+  
+    
     
 #### Links
 <p align='left'>
