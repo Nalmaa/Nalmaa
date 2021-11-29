@@ -1,4 +1,4 @@
-### I AM🌵
+#### I AM🌵
     
 ###### 👋 Hi, I’m @Nalmaa ( The real name is Daniil). I'm 18 y.o. I'm beginner programming specialist
 ###### 👀 I’m interested in programming languages and network security.
@@ -10,7 +10,7 @@
     
 
 
-### MY TECHNICAL ACTIVITY👾
+#### MY TECHNICAL ACTIVITY👾
 <p align='left'>
 <img src="https://img.shields.io/badge/-InfoWatch-32CD32?style=for-the-badge&logo=infowatch"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"/>
 
     
-### Links
+#### Links
 <p align='left'>
    <a href="https://vk.com/tay0ta/">
        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>                 
