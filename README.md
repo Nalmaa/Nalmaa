@@ -1,4 +1,4 @@
-### 🌵 I AM / ОБО МНЕ 🌵
+## 🌵 I AM / ОБО МНЕ 🌵
 ![](https://komarev.com/ghpvc/?username=nalmaa&color=blue&style=flat-square)
     
 ###### 👋 Hi, I’m @Nalmaa ( The real name is Daniil). I'm 18 y.o. I'm beginner programming specialist.
@@ -14,7 +14,7 @@
 ###### 🌱 Так же я пробую себя в редактировании и улучшении фотографии при помощи программы Adobe Photoshop 
 ---
 ###### 😍 I'm watch Anime
-###### 😍 Нравится смотреть аниме, о чем соответствует моя аватарка профиля :3
+###### 😍 Нравится смотреть аниме, о чем соответствует моя аватарка профиля   :3
 
 
     
@@ -22,7 +22,7 @@
 
 
 
-### ✨ MY TECHNICAL ACTIVITY / МОЯ ТЕХНИЧЕСКАЯ ДЕЯТЕЛЬНОСТЬ ✨
+## ✨ MY TECHNICAL ACTIVITY / МОЯ ТЕХНИЧЕСКАЯ ДЕЯТЕЛЬНОСТЬ ✨
 >В основном я занимаюсь в этих программах
 <p align='left'>
 <img src="https://img.shields.io/badge/-InfoWatch-32CD32?style=for-the-badge&logo=infowatch"/>
@@ -33,7 +33,7 @@
   
     
     
-### 💫 Links / ССЫЛКИ 💫
+## 💫 Links / ССЫЛКИ 💫
  >Перейдя по ссылкам можно наткунться на меня и задать пару вопросов
 <p align='left'>
    <a href="https://vk.com/tay0ta/">
@@ -46,7 +46,7 @@
      
      
      
-### 📋MY STAT / МОЯ СТАТИСТИКА📋
+## 📋MY STAT / МОЯ СТАТИСТИКА📋
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalmaa&show_icons=true&theme=default)
   
