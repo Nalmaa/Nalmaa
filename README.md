@@ -48,7 +48,7 @@
     
     
     
-## Links / ССЫЛКИ
+## LINKS / ССЫЛКИ
  >Перейдя по ссылкам можно наткнуться на меня и задать пару вопросов
  >
  >By clicking on the links, you can stumble upon me and ask a couple of questions   
