@@ -37,7 +37,7 @@
     
 ## Links / ССЫЛКИ
  >Перейдя по ссылкам можно наткнуться на меня и задать пару вопросов
-    
+ >
  >By clicking on the links, you can stumble upon me and ask a couple of questions   
 <p align='left'>
    <a href="https://vk.com/tay0ta/">
@@ -65,7 +65,4 @@
 
 
 
-<!---
-Nalmaa/Nalmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
