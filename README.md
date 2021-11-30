@@ -40,9 +40,9 @@
  >Перейдя по ссылкам можно наткунться на меня и задать пару вопросов
 <p align='left'>
    <a href="https://vk.com/tay0ta/">
-       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>                 
+       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/></a>     
  <a href="https://instagram.com/video.narkotiki/">
-       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>     
+       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
      
