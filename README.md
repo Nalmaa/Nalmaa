@@ -46,7 +46,7 @@
      
      
      
-##MY STAT / МОЯ СТАТИСТИК
+## MY STAT / МОЯ СТАТИСТИК
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalmaa&show_icons=true&theme=default)
   
