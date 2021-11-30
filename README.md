@@ -24,6 +24,7 @@
 
 ##  MY TECHNICAL ACTIVITY / МОЯ ТЕХНИЧЕСКАЯ ДЕЯТЕЛЬНОСТЬ 
 >В основном я занимаюсь в этих программах
+>I mainly work in these programs
 <p align='left'>
 <img src="https://img.shields.io/badge/-InfoWatch-32CD32?style=for-the-badge&logo=infowatch"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -34,7 +35,8 @@
     
     
 ## Links / ССЫЛКИ
- >Перейдя по ссылкам можно наткунться на меня и задать пару вопросов
+ >Перейдя по ссылкам можно наткнуться на меня и задать пару вопросов
+ >By clicking on the links, you can stumble upon me and ask a couple of questions   
 <p align='left'>
    <a href="https://vk.com/tay0ta/">
        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/></a>     
