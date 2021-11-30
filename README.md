@@ -48,7 +48,7 @@
      
 ### 📋MY STAT / МОЯ СТАТИСТИКА📋
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalmaa&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalmaa&show_icons=true&theme=default)
   
 
    
