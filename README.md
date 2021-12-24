@@ -1,8 +1,9 @@
 ## ABOUT ME / ОБО МНЕ 
 
+
 ![](https://komarev.com/ghpvc/?username=nalmaa&color=blue&style=flat-square)
----
-    
+
+  ---  
 ###### 👋 Hi, I’m @Nalmaa ( The real name is Daniil). I'm 18 y.o. I'm beginner programming specialist.
 ###### 👋Привет, Меня зовут Nalmaa (настоящее имя - Даниил). Мне 18 лет, начинающий программный специалист.
 
