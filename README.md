@@ -33,6 +33,14 @@
 
 
 ##  MY TECHNICAL ACTIVITY / МОЯ ТЕХНИЧЕСКАЯ ДЕЯТЕЛЬНОСТЬ 
+> Умею работать в оффисных программах и настраивать их от взлома, так же умею зашифровывать сообщения от злоумышников 
+>
+>I know how to work in office programs and configure them against hacking, I also know how to encrypt messages from malicious scammers
+<p align='left'>
+<img src="https://img.shields.io/badge/-Word-blue?style=for-the-badge&logo=Word"/>
+<img src="https://img.shields.io/badge/-Exel-green?style=for-the-badge&logo=Exel"/>
+<img src="https://img.shields.io/badge/-Powerpoint-red?style=for-the-badge&logo=Powerpoint"/>
+
 >В основном я занимаюсь в этих программах
 >
 >I mainly work in these programs
@@ -42,6 +50,11 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"/>
 
+>Так же имеется опыт в работе на Python
+>
+>There is also experience in working on Python
+<img src="https://img.shields.io/badge/-Phyton-blue?style=for-the-badge&logo=Phyton"/>
+ 
 ---    
     
     
@@ -75,6 +88,8 @@
     
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalmaa&show_icons=true&theme=default)
+
+
   
 
    
